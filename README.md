@@ -1,2 +1,2 @@
 # basic-rust-template
-simple base 62 conversion
+Basic Rust template under BSD 3-clause license.
